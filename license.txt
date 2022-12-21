@@ -1,0 +1,16 @@
+Selamat datang
+Selamat menggunakan Resto Pintar
+Untuk Username dan Paswword
+
+Admin: 	username	= admin
+	password 	= admin
+Kasir:	username	= kasir
+	password 	= kasir
+Dapur:	username	= dapur
+	password	= dapur
+
+
+Sebagaimana untuk memenuhi Tugas Akhir Mata kuliah Pemrograman Visual
+Nur Faidzin
+19330038
+Informatika A
